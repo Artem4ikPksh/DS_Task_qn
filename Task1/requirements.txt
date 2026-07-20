@@ -1,0 +1,15 @@
+# --- Базові бібліотеки машинного навчання та NLP ---
+torch=2.0.0
+transformers=4.35.0
+datasets=2.14.0
+evaluate=0.4.0
+seqeval=1.2.2
+numpy=1.24.0
+
+# --- Візуалізація та Демонстрація (Jupyter) ---
+spacy=3.6.0
+html5lib=1.1
+ipywidgets=8.0.0
+
+# --- Генерація PDF-звітів ---
+reportlab=4.0.0
